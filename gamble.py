@@ -5,8 +5,8 @@ import random
 
 list1 = [1, 2 , 3 , 4, 5, 6]
 
-
-#testing the merge feature
+# not sure what is happening anymore
+# are you
 
 
 print(random.choice(list1))
